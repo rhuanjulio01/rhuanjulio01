@@ -2,7 +2,7 @@
 <h1>Hi ✌, I'm Rhuan Júlio</h1>
 <h3>Software Developer</h3>
 
-- 🌱 I’m currently learning *Study systems analysis and development*
+- 🌱 I’m currently learning *systems analysis and development*
 - ☁️ I've keen interest in cloud computing. *So,I'm learning AWS*
 - 📫 How to reach me *vitorgabriel181004@gmail.com*
 <br>
