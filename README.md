@@ -39,5 +39,5 @@
 <h1 align="left">Contacts-</h1>
 <div align="left">
 <a href="https://www.linkedin.com/in/rhuan-j%C3%BAlio-757878300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vitorgb7" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vitor_gb04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amir.m.kaseb" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rhuanzzz_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amir.m.kaseb" height="30" width="40" /></a>
 </div>
