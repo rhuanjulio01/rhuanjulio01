@@ -3,7 +3,7 @@
 <h3>Software Developer</h3>
 
 - 🌱 I’m currently learning *systems analysis and development*
-- ☁️ I've keen interest in cloud computing. *So,I'm learning AWS*
+- ☁️ I've keen interest in back-end development.
 - 📫 How to reach me *rhuan.lu.ju.cris@outlook.com*
 <br>
 <table align="center">
